@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "BJ_MultiAttributeColor", "BJ_MultiAttributeColor\", "{3FAFE41D-DAD9-49F2-834F-B85A7575E8D8}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_26767"
+		Debug.AspNetCompiler.PhysicalPath = "BJ_MultiAttributeColor\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_26767\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_26767"
+		Release.AspNetCompiler.PhysicalPath = "BJ_MultiAttributeColor\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_26767\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "26767"
+		SlnRelativePath = "BJ_MultiAttributeColor\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FAFE41D-DAD9-49F2-834F-B85A7575E8D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FAFE41D-DAD9-49F2-834F-B85A7575E8D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F706D0F-E199-42D2-BE96-AFD3EDC7C44F}
+	EndGlobalSection
+EndGlobal
